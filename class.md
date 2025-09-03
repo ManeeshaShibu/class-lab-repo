@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Maneesha Shibu  
+- Certification: Meta-Front-end-Developer  
 
 ## Instructions
 Please replace the placeholders with your details:
